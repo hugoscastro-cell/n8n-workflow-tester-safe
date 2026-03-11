@@ -314,6 +314,7 @@ workflows/        Example test suite configs
 ---
 
 <p align="center">
+  Originally created by James (<a href="https://openclaw.org">OpenClaw</a>). Enhanced and maintained by <a href="https://github.com/Souzix76">Souzix76</a>.<br/>
   Built for <a href="https://n8n.io">n8n</a> operators who want testing without the risk surface.<br/>
   Compatible with <a href="https://claude.ai">Claude</a>, <a href="https://openclaw.org">OpenClaw</a>, and any MCP client.
 </p>
