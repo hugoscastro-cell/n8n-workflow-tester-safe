@@ -14,6 +14,10 @@
   <em>Config-driven test suites with tiered scoring, execution traces, and a built-in node catalog.</em>
 </p>
 
+<a href="https://glama.ai/mcp/servers/Souzix76/n8n-workflow-tester-safe">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/Souzix76/n8n-workflow-tester-safe/badge" alt="n8n-workflow-tester-safe MCP server" />
+</a>
+
 ---
 
 ## Why?
